@@ -1,0 +1,19 @@
+{
+  "name": "Glucopet – Edukasi, Tracking Gula & Activity Burn",
+  "short_name": "Glucopet",
+  "description": "Edukasi gula, tracking konsumsi harian, Gula Lens, kuliner Indonesia, dan hydration tracker.",
+  "lang": "id",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffe4f1",
+  "theme_color": "#ff5c9d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
